@@ -1,0 +1,63 @@
+body {
+    background-color: #E13700;
+}
+.title {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.leftPanel {
+ background-color: #F9C846;
+ height: 630px;
+ width: 578px;
+ margin-left: 20px;
+}
+.topRightPanel {
+    background-color: #F9C846;
+    height: 278px;
+    width: 579px;
+    text-align: center;
+}
+.botRightPanel {
+    background-color: #F9C846;
+    height: 278px;
+    width: 579px;
+    margin-top: 55px;
+    text-align: center;
+}
+.studentTitle {
+    text-align: center;
+    font-size: 32px;
+    padding-top: 20px;
+    font-weight: 600;
+}
+.genTitle {
+    font-size: 32px;
+    padding-top: 10px;
+    font-weight: 600;
+}
+.getButton {
+   margin-top: 20px;
+}
+.rndmStudent {
+    margin-top: 45px;
+    font-size: 42px;
+}
+.prevTitle {
+    text-align: center;
+    font-size: 32px;
+    padding-top: 20px;
+    font-weight: 600;
+}
+.prevNames {
+    text-align: center;
+    margin-left: 20px;
+    line-height: 20px;
+    font-size: 22px;
+    /* font-family: 'Josefin Sans'; */
+}
+.listList {
+    font-size: 22px;
+    font-weight: 800px;
+}
